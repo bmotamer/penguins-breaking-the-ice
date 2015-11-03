@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Data\Scripts\Game\Obstacle.cs">
+    <Files>
+      <File FileName="Assets\Resources\Data\Scripts\Game\Obstacle.cs" Line="35" Column="44" />
+      <File FileName="Assets\Resources\Data\Scripts\Game\Penguin.cs" Line="190" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
